@@ -1,6 +1,6 @@
 repository:
-  name: "k8sgpt-operator"
-  description: "Automatic SRE Superpowers within your Kubernetes cluster"
+  name: "charts"
+  description: "Helm Charts for K8sGPT"
   homepage_url: "https://k8sgpt.ai"
   topics: kubernetes, devops, tooling, openai, sre
 
