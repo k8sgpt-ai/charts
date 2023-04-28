@@ -36,4 +36,5 @@ branches:
       restrictions:
         users: []
         apps: []
-        teams: []
+        teams:
+        - "k8sgpt-bots"
