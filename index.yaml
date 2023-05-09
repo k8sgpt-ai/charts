@@ -10,6 +10,28 @@ entries:
         - name: community
           url: https://github.com/k8sgpt-ai/community
     apiVersion: v2
+    appVersion: 0.0.11
+    created: "2023-05-09T09:21:12.534917585Z"
+    description: Automatic SRE Superpowers within your Kubernetes cluster
+    digest: 7844953a50cbfda1c531fdbff09f465bb7ef5b46526e8e6fcc5ad10ced29d73e
+    maintainers:
+    - email: noreply@k8sgpt.ai
+      name: The K8sGPT Authors
+      url: https://github.com/k8sgpt-ai/community
+    name: k8sgpt-operator
+    type: application
+    urls:
+    - https://charts.k8sgpt.ai/k8sgpt-operator-0.0.11.tgz
+    version: 0.0.11
+  - annotations:
+      artifacthub.io/categories: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: support
+          url: https://github.com/k8sgpt-ai/k8sgpt-operator/issues/new
+        - name: community
+          url: https://github.com/k8sgpt-ai/community
+    apiVersion: v2
     appVersion: 0.0.10
     created: "2023-05-09T08:14:37.426268197Z"
     description: Automatic SRE Superpowers within your Kubernetes cluster
@@ -73,4 +95,4 @@ entries:
     urls:
     - https://charts.k8sgpt.ai/charts/charts/k8sgpt-operator-0.0.6.tgz
     version: 0.0.6
-generated: "2023-05-09T08:14:37.425511285Z"
+generated: "2023-05-09T09:21:12.534079679Z"
