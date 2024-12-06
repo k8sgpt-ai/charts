@@ -13,6 +13,16 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2024-12-06T16:13:54.661045041Z"
+    description: A Helm chart for Kubernetes
+    digest: fe1fde5b29302a99f1ac87c919f02631a527385f7bc215f97179063edc2d6ee5
+    name: interplex
+    type: application
+    urls:
+    - https://charts.k8sgpt.ai/interplex-0.0.8.tgz
+    version: 0.0.8
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2024-12-06T16:11:21.325512502Z"
     description: A Helm chart for Kubernetes
     digest: fe091fd89601f97c77a63f5b5273e582ce8eb7045d8e179778b3d465dc65d424
@@ -752,4 +762,4 @@ entries:
     urls:
     - https://charts.k8sgpt.ai/charts/charts/k8sgpt-operator-0.0.6.tgz
     version: 0.0.6
-generated: "2024-12-06T16:11:21.324868471Z"
+generated: "2024-12-06T16:13:54.660462145Z"
