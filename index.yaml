@@ -12,6 +12,16 @@ entries:
     - https://charts.k8sgpt.ai/interplex-0.1.0.tgz
     version: 0.1.0
   - apiVersion: v2
+    appVersion: v0.0.10
+    created: "2024-12-09T07:34:36.530529467Z"
+    description: A very fast cache written in Rust
+    digest: 48f4a9ed353fc1a83b8dc90f08f7d7da8a2b0af82c056684d9f775ee8c1c9d5b
+    name: interplex
+    type: application
+    urls:
+    - https://charts.k8sgpt.ai/interplex-0.0.11.tgz
+    version: 0.0.11
+  - apiVersion: v2
     appVersion: 1.16.0
     created: "2024-12-09T06:21:29.640222272Z"
     description: A Helm chart for Kubernetes
@@ -782,4 +792,4 @@ entries:
     urls:
     - https://charts.k8sgpt.ai/charts/charts/k8sgpt-operator-0.0.6.tgz
     version: 0.0.6
-generated: "2024-12-09T06:21:29.638472034Z"
+generated: "2024-12-09T07:34:36.529986312Z"
