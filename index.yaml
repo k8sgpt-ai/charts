@@ -3,6 +3,16 @@ entries:
   interplex:
   - apiVersion: v2
     appVersion: v0.0.11
+    created: "2025-07-14T12:07:57.579893618Z"
+    description: A very fast cache written in Rust
+    digest: 0d0f5dfbcde1b27ba162d232f7b76921970e4dbcd1ed370f4efdf9df67183941
+    name: interplex
+    type: application
+    urls:
+    - https://charts.k8sgpt.ai/interplex-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v2
+    appVersion: v0.0.11
     created: "2024-12-09T13:49:14.916282434Z"
     description: A very fast cache written in Rust
     digest: ea96fbfa3f5442d02da44c1e38c20b43de20f10a993fa8ac620c760276c66891
@@ -1245,4 +1255,4 @@ entries:
     urls:
     - https://charts.k8sgpt.ai/charts/charts/k8sgpt-operator-0.0.6.tgz
     version: 0.0.6
-generated: "2025-06-20T08:10:14.891624527Z"
+generated: "2025-07-14T12:07:57.579106495Z"
