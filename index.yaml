@@ -42,6 +42,33 @@ entries:
           url: https://github.com/k8sgpt-ai/community
     apiVersion: v2
     appVersion: 0.0.26
+    created: "2026-01-28T22:22:54.482007217Z"
+    dependencies:
+    - condition: interplex.enabled
+      name: interplex
+      repository: https://charts.k8sgpt.ai/
+      version: 1.1.0
+    description: Automatic SRE Superpowers within your Kubernetes cluster
+    digest: 285f7f19fec56ca294ddb15ec2da906e07c5367df7335f8c5617808e35450a8f
+    maintainers:
+    - email: noreply@k8sgpt.ai
+      name: The K8sGPT Authors
+      url: https://github.com/k8sgpt-ai/community
+    name: k8sgpt-operator
+    type: application
+    urls:
+    - https://charts.k8sgpt.ai/k8sgpt-operator-0.2.25.tgz
+    version: 0.2.25
+  - annotations:
+      artifacthub.io/categories: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: support
+          url: https://github.com/k8sgpt-ai/k8sgpt-operator/issues/new
+        - name: community
+          url: https://github.com/k8sgpt-ai/community
+    apiVersion: v2
+    appVersion: 0.0.26
     created: "2025-10-13T11:43:12.730357775Z"
     dependencies:
     - condition: interplex.enabled
@@ -1309,4 +1336,4 @@ entries:
     urls:
     - https://charts.k8sgpt.ai/charts/charts/k8sgpt-operator-0.0.6.tgz
     version: 0.0.6
-generated: "2025-10-13T11:43:12.729099517Z"
+generated: "2026-01-28T22:22:54.480107195Z"
